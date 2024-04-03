@@ -10,6 +10,7 @@ const docDate = props.date;
 <div>
     <h4>{{ docTitle }}</h4>
     <div>{{ docDate }}</div>
+    <hr>
 </div>
 </template>
 
