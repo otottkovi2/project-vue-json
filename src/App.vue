@@ -20,6 +20,7 @@ nav{
   display: flex;
   justify-content: space-evenly;
   width:15vw;
+  min-width: 15em;
   height: 2.5em;
 }
 a{
