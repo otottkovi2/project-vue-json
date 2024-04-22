@@ -1,9 +1,21 @@
 {
-    "docs":[
-        {
-            "id": "0",
-            "title": "example doc",
-            "date": "2024-04-03"
-        }
-    ]
+  "docs": [
+    {
+      "id": "0",
+      "title": "example doc",
+      "date": "2024-04-03"
+    },
+    {
+      "id": 0,
+      "title": "Boola docs",
+      "content": "-",
+      "date": "2024-04-05"
+    },
+    {
+      "id": 0,
+      "title": "buzi vagy",
+      "content": "buzi vagy",
+      "date": "2024-04-05"
+    }
+  ]
 }
